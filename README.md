@@ -1,2 +1,0 @@
-# TodoCounterExample
-Created with CodeSandbox
